@@ -1,0 +1,4 @@
+prime minister count: 134
+countries count: 233
+republic count: 152
+monarchy count: 61
